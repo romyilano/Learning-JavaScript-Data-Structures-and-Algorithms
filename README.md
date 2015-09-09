@@ -1,7 +1,8 @@
-javascript-datastructures-algorithms
-====================================
 
-JavaScript algorithms from PacktPub
+
+# JavaScript algorithms from PacktPub
+
+Note that these aren't my algorithsm - they are from a book:
 
 https://www.packtpub.com/application-development/learning-javascript-data-structures-and-algorithms
 
